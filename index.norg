@@ -1,0 +1,16 @@
+* LAN Pictochat
+  run it on my server and be able to log in via mobile or in terminal/tauri app
+  - ( ) chat rooms abcd
+  - ( ) show who is in rooms
+  - ( ) names 
+  - ( ) draw canvas
+  - ( ) copy above image
+  - ( ) send message
+  - ( ) receive room messages
+
+* Server Todo
+  - ( ) receive listeners
+  - ( ) notify listeners of new image
+  - ( ) dont persist this data, wtf am i gonna do w it
+  - ( ) 
+
